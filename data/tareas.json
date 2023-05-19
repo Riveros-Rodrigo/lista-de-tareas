@@ -1,0 +1,26 @@
+[
+  {
+    "titulo": "Repasar JS",
+    "estado": "terminado"
+  },
+  {
+    "titulo": "Armar aplicacion de tareas",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "repasar react.js",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "repasar backend",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "repasar bootstrap",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "estudiar python",
+    "estado": "pendiente"
+  }
+]
